@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <Manufacturer>
+        <ManufacturerNumber>101</ManufacturerNumber>
+        <FullName>Golden Vineyards</FullName>
+        <PhoneNumber>+123456789</PhoneNumber>
+        <Address>Sonoma County, USA</Address>
+        <Email>info@goldenvineyards.com</Email>
+        <Wines>
+            <Wine>
+                <CatalogNumber>111</CatalogNumber>
+                <Name>Zinfandel Reserve</Name>
+                <PairingDish>Roasted Duck</PairingDish>
+                <Description>Bold and spicy red wine</Description>
+                <ProductionYear>2019</ProductionYear>
+                <PricePerBottle>82.99</PricePerBottle>
+                <SweetnessLevel>Dry</SweetnessLevel>
+                <Occasions>Festive Celebrations</Occasions>
+            </Wine>
+            <Wine>
+                <CatalogNumber>112</CatalogNumber>
+                <Name>Sauvignon Blanc</Name>
+                <PairingDish>Goat Cheese Salad</PairingDish>
+                <Description>Crisp and citrusy white wine</Description>
+                <ProductionYear>2021</ProductionYear>
+                <PricePerBottle>48.00</PricePerBottle>
+                <SweetnessLevel>Dry</SweetnessLevel>
+                <Occasions>Outdoor Picnics</Occasions>
+            </Wine>
+        </Wines>
+    </Manufacturer>
+    <Manufacturer>
+        <ManufacturerNumber>102</ManufacturerNumber>
+        <FullName>Royal Cellars</FullName>
+        <PhoneNumber>+987654321</PhoneNumber>
+        <Address>Tuscany, Italy</Address>
+        <Email>info@royalcellars.com</Email>
+        <Wines>
+            <Wine>
+                <CatalogNumber>221</CatalogNumber>
+                <Name>Chianti Classico</Name>
+                <PairingDish>Pasta Bolognese</PairingDish>
+                <Description>Earthy and rich Italian red wine</Description>
+                <ProductionYear>2018</ProductionYear>
+                <PricePerBottle>60.50</PricePerBottle>
+                <SweetnessLevel>Medium</SweetnessLevel>
+                <Occasions>Family Dinners</Occasions>
+            </Wine>
+        </Wines>
+    </Manufacturer>
+</Data>
